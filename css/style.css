@@ -1,0 +1,51 @@
+body {
+    font-family: sans-serif;
+    padding: 0;
+    margin: 0;
+}
+
+img {
+    width: 100%;
+}
+
+h1 {
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    font-weight: 100;
+}
+
+h2 {
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    font-weight: 100;
+}
+
+h3 {
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    font-weight: 100;
+}
+
+
+.green-text-bg {
+    background-color: green;
+}
+
+.hero {
+    background-color: #ebc2c2;
+    text-align: center;
+    padding: 100px;
+}
+
+.flex-container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.coasters-gallery {
+    padding: 20px;
+}
+
+.coasters-gallery article {
+    width: 30%;
+}
